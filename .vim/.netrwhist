@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/da1/home/suweining/360spider/trunk/plat/pattern-filter/include'
+let g:netrw_dirhist_2='/da1/home/suweining/360spider/trunk/plat/pattern-filter/src'
+let g:netrw_dirhist_3='/da1/home/suweining/360spider/trunk/plat/pattern-filter'
+let g:netrw_dirhist_4='/da1/home/suweining/360spider/trunk/plat/pattern-filter/include'
